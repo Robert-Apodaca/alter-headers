@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "alter-headers",
+	"name": "cst-transform",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-04-03",
 	"observability": {
