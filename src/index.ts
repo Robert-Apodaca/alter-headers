@@ -23,7 +23,7 @@ export default {
         // newResponse.headers.delete("x-header2-to-delete");
 
         // Adjust the value for an existing header
-        //newResponse.headers.set("x-header-to-change", "NewValue");
+        ///newResponse.headers.set("x-header-to-change", "NewValue");
 
         return newResponse;
     },
